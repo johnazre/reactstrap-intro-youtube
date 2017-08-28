@@ -1,0 +1,14 @@
+______    _______  _______  _______  _______  _______  _______  ______    _______  _______
+|    _ |  |       ||   _   ||       ||       ||       ||       ||    _ |  |   _   ||       |
+|   | ||  |    ___||  |_|  ||       ||_     _||  _____||_     _||   | ||  |  |_|  ||    _  |
+|   |_||_ |   |___ |       ||       |  |   |  | |_____   |   |  |   |_||_ |       ||   |_| |
+|    __  ||    ___||       ||      _|  |   |  |_____  |  |   |  |    __  ||       ||    ___|
+|   |  | ||   |___ |   _   ||     |_   |   |   _____| |  |   |  |   |  | ||   _   ||   |
+|___|  |_||_______||__| |__||_______|  |___|  |_______|  |___|  |___|  |_||__| |__||___|
+
+Overview:
+  In this series, we're going to go through how to set up and use some of the features of
+  Reactstrap inside of an app built with create-react-app. Reactstrap is built with Bootstrap v4!
+
+HEADS UP: At the time of this recording, Reactstrap is still having issues with Bootstrap v4 beta,
+so we're going to stick to the latest version of alpha, as mentioned by the docs.
